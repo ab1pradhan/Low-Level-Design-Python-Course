@@ -24,4 +24,4 @@ Dive deep into the world of low-level design with Python. Through this course, y
 1. Clone this repository:
 
 ```bash
-git clone [Your-Repository-URL]
+git clone https://github.com/ab1pradhan/Low-Level-Design-Python-Course.git
